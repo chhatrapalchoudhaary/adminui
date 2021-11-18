@@ -1,0 +1,10 @@
+.table-text{
+    font-size: 14px;
+    font-weight: normal;
+}
+.action-format{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+}
